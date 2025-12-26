@@ -1,0 +1,10 @@
+TF|Java 是物件導向語言嗎？|5.0|true
+FIB|Java 檔案編譯後的副檔名是？|15.0|class
+MCQ|哪些是 Java 關鍵字？|20.0|0 1|static,void,vibe
+TF|Java 類別支援「多重繼承」嗎？|5.0|false
+MCQ|關於介面哪些正確？|20.0|0 1 2|預設 public,Java 8+ 可有邏輯,類別可實作多個
+TF|在 Java 中，class 是用來定義物件的藍圖。|5.0|true
+TF|在 Java 中，一個類別只能建立一個物件。|5.0|false
+MCQ|下列哪些可以出現在 Java 的類別 (class) 中？|20.0|0 1 3|成員變數 (field),成員方法 (method),new 關鍵字,建構子 (constructor)
+FIB|Java 中，用來宣告常數的關鍵字是？|10.0|final
+FIB|在 Java 中，所有類別的根源父類別是？|10.0|Object
